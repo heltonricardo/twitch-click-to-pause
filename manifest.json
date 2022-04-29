@@ -3,5 +3,11 @@
   "name": "Twitch: click to pause",
   "version": "1.0.0",
   "author": "Helton Ricardo",
-  "description": "A click to pause Chrome extension for Twitch"
+  "description": "A click to pause Chrome extension for Twitch",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
 }
