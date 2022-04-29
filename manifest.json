@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch: click to pause",
+  "version": "1.0.0",
+  "author": "Helton Ricardo",
+  "description": "A click to pause Chrome extension for Twitch"
+}
