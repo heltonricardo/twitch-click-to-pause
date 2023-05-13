@@ -1,12 +1,18 @@
 <h1 align="center">Twitch: Click to Pause ⏯️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-5d8d37?style=flat-square" alt="Version" />
-  <img src="https://img.shields.io/badge/chrome_web_store-soon-orange?style=flat-square" alt="Version" />
+  <picture>
+    <img src="https://img.shields.io/badge/version-1.0.0-5d8d37?style=flat-square" alt="Version" />
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/chrome_web_store-soon-orange?style=flat-square" alt="Chrome Web Store" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/img/logo.png" width="200" alt="Twitch: Click to Pause" />
+  <picture>
+    <img src="./assets/img/logo.png" width="200" alt="Twitch: Click to Pause" />
+  </picture>
 </p>
 
 <p align="center">
