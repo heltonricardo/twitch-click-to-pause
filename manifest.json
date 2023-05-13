@@ -1,9 +1,10 @@
 {
-  "manifest_version": 3,
-  "name": "Twitch: click to pause",
   "version": "1.0.0",
+  "manifest_version": 3,
   "author": "Helton Ricardo",
-  "description": "A click to pause Chrome extension for Twitch",
+  "name": "Twitch: click to pause",
+  "description": "Easily pause and resume Twitch videos with a simple click on the video itself. Take control of your viewing experience today!",
+  
   "icons": {
     "16": "assets/img/icon16.png",
     "32": "assets/img/icon32.png",
