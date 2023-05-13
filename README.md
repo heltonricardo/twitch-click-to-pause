@@ -10,13 +10,11 @@
 </p>
 
 <p align="center">
-  Easily pause and resume
-  <a href="https://www.twitch.tv/">Twitch</a>
-  videos with a simple click on the video.
+  <b>Easily pause and resume Twitch videos with a simple click on the video.</b>
 </p>
 
 <br />
 
 ## Description
 
-`Twitch: Click to Pause` is an extension that allows you to easily pause Twitch videos with a simple click on the video itself. With this extension, you no longer have to worry about missing the pause button when watching your favorite Twitch videos. Just click on the video and it will pause immediately, giving you greater control over your viewing experience. Download the extension now and start enjoying a more intuitive and personalized viewing experience on Twitch!
+`Twitch: Click to Pause` is an extension that allows you to easily pause [Twitch](https://www.twitch.tv/) videos with a simple click on the video itself. With this extension, you no longer have to worry about missing the pause button when watching your favorite Twitch videos. **Just click on the video** and it will pause immediately, giving you greater control over your viewing experience. Download the extension now and start enjoying a more intuitive and personalized viewing experience on Twitch!
