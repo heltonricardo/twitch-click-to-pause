@@ -4,22 +4,25 @@
   <picture>
     <img src="https://img.shields.io/badge/version-1.0.0-5d8d37?style=flat-square" alt="Version" />
   </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/chrome_web_store-soon-orange?style=flat-square" alt="Chrome Web Store" />
-  </picture>
+  <a href="https://chrome.google.com/webstore/detail/twitch-click-to-pause/adobjpkknimepogllngddjikogghgdhl">
+    <img src="https://img.shields.io/badge/chrome_web_store-link-orange?style=flat-square" alt="Chrome Web Store" />
+  </a>
 </p>
 
 <p align="center">
-  <picture>
+  <a href="https://chrome.google.com/webstore/detail/twitch-click-to-pause/adobjpkknimepogllngddjikogghgdhl">
     <img src="./assets/img/logo.png" width="200" alt="Twitch: Click to Pause" />
-  </picture>
+  </a>
 </p>
+
 
 <p align="center">
   <b>Easily pause and resume Twitch videos with a simple click on the video.</b>
 </p>
 
 <br />
+
+##### 👉🏻 [Link to Chrome Web Store](https://chrome.google.com/webstore/detail/twitch-click-to-pause/adobjpkknimepogllngddjikogghgdhl)
 
 ## Description
 
