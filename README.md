@@ -1,8 +1,8 @@
 <h1 align="center">Twitch: Click to Pause ⏯️</h1>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/version-v1.0.0-5d8d37?style=flat-square" alt="Version" style="pointer-events: none; border: none;" />
+  <a href="https://chrome.google.com/webstore/detail/twitch-click-to-pause/adobjpkknimepogllngddjikogghgdhl">
+    <img src="https://img.shields.io/badge/version-v1.0.0-5d8d37?style=flat-square" alt="Version" />
   </a>
   <a href="https://chrome.google.com/webstore/detail/twitch-click-to-pause/adobjpkknimepogllngddjikogghgdhl">
     <img src="https://img.shields.io/badge/chrome_web_store-link-orange?style=flat-square" alt="Chrome Web Store" />
