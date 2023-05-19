@@ -15,6 +15,7 @@
   </a>
 </p>
 
+<h6 align="center">Google Chrome Extension</h6>
 
 <p align="center">
   <b>Easily pause and resume Twitch videos with a simple click on the video.</b>
